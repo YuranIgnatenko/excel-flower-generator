@@ -1,3 +1,2 @@
-fake_useragent
+lib-fetcher-image
 openpyxl 
-bs4 
